@@ -1,0 +1,14 @@
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.AssemblyInfoInputs.cache
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.AssemblyInfo.cs
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.csproj.CoreCompileInputs.cache
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/bin/Debug/net9.0/CalcApp
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/bin/Debug/net9.0/CalcApp.deps.json
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/bin/Debug/net9.0/CalcApp.runtimeconfig.json
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/bin/Debug/net9.0/CalcApp.dll
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/bin/Debug/net9.0/CalcApp.pdb
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.dll
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/refint/CalcApp.dll
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.pdb
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/CalcApp.genruntimeconfig.cache
+/Users/ayaanahmed/Library/Mobile Documents/com~apple~CloudDocs/AYAAN/CsharpProjects/CalcApp/obj/Debug/net9.0/ref/CalcApp.dll
